@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Akiiki — Busingye Wilson</title>
+<title>Akiiki — Businge Wilson</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400;500&family=Caveat:wght@500;600;700&display=swap" rel="stylesheet">
 <noscript><style>#preloader{display:none !important;}</style></noscript>
@@ -651,7 +651,7 @@
 
   /* ---------- console easter egg ---------- */
   console.log(
-    "%cYou found this.%c\nCurious minds do.\n\n— Akiiki, Busingye Wilson\nFront-end craftsman · Hoima City, Uganda\nBuilding quietly since 2016.",
+    "%cYou found this.%c\nCurious minds do.\n\n— Akiiki, Businge Wilson\nFront-end craftsman · Hoima City, Uganda\nBuilding quietly since 2016.",
     "color:#c9a24b; font-size:16px; font-weight:bold;",
     "color:#8c9089; font-size:12px;"
   );
